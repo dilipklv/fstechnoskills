@@ -1,0 +1,3 @@
+1. Create Cloud native Microservices project
+2. Setup CD/CI delivery for microservices project.
+3. Create base docker images as infrastructure.
